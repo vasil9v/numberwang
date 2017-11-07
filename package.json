@@ -1,0 +1,19 @@
+{
+  "name": "numberwang",
+  "version": "1.0.0",
+  "description": "That's Numberwang!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasil9v/numberwang"
+  },
+  "author": "Vasilios Daskalopoulos",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "uuid": "^3.1.0"
+  }
+}
